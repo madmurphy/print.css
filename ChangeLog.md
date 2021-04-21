@@ -1,6 +1,13 @@
 # Change Log
 
 
+## 1.1.1 (2021-04-21)
+
+Changes:
+
+* The `"printable"` class has been extended to the `<button>` element
+
+
 ## 1.1.0 (2021-04-19)
 
 Changes:
