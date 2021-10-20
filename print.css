@@ -8,7 +8,7 @@
 |*|
 |*|	https://github.com/madmurphy/print.css/
 |*|
-|*|	Version 1.1.1
+|*|	Version 1.1.2
 |*|
 |*|	(c) madmurphy333@gmail.com
 |*|
@@ -25,24 +25,24 @@
 
 	/*
 
-		Available classes:
+	    Available classes:
 
-		`"new-page"`		Print the element in a new page
+	    `"new-page"`        Print the element in a new page
 
-		`"non-printable"`		Do not print the element
+	    `"non-printable"`   Do not print the element
 
-		`"obvious"`		Prevent the expansion of attributes (such as
-					`href`, `title`, etc.) - useful when the
-					content makes them redundant
+	    `"obvious"`         Prevent the expansion of attributes
+	                        (such as `href`, `title`, etc.) -- useful when
+	                        the content makes them redundant
 
-		`"printable"`		Print the element - useful for elements that
-					would not be printed otherwise, such as `<nav>`
-					containers, form buttons, etc.
+	    `"printable"`       Print the element -- useful for elements that
+	                        would not be printed otherwise, such as `<nav>`
+	                        containers, form buttons, etc.
 
-		`"trackable"`		Expand the content of the `value` attributes
-					assigned to (nested) `<data>` elements and the
-					`datetime` attributes assigned to (nested)
-					`<time>` elements
+	    `"trackable"`       Expand the content of `value` attributes
+	                        assigned to (nested) `<data>` elements and
+	                        `datetime` attributes assigned to (nested)
+	                        `<time>` elements
 
 	*/
 

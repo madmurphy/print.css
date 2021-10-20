@@ -29,9 +29,9 @@ redundant</dd>
 <dd>Print the element &ndash; useful for elements that would not be printed
 otherwise, such as <code>&lt;nav&gt;</code> containers, form buttons, etc.</dd>
 <dt><code>"trackable"</code></dt>
-<dd>Expand the content of the <code>value</code> attributes assigned to
-(nested) <code>&lt;data&gt;</code> elements and the <code>datetime</code>
-attributes assigned to (nested) <code>&lt;time&gt;</code> elements</dd>
+<dd>Expand the content of <code>value</code> attributes assigned to (nested)
+<code>&lt;data&gt;</code> elements and <code>datetime</code> attributes
+assigned to (nested) <code>&lt;time&gt;</code> elements</dd>
 </dl>
 
 

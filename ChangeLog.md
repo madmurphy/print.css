@@ -1,4 +1,12 @@
-# Change Log
+Change Log
+==========
+
+
+## 1.1.2 (2021-10-20)
+
+Changes:
+
+* Documentation
 
 
 ## 1.1.1 (2021-04-21)
